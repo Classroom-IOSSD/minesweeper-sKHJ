@@ -1,0 +1,5 @@
+*.o
+main
+
+*.c.orig
+*.h.orig
